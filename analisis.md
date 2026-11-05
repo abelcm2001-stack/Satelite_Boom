@@ -5,7 +5,7 @@ No hace falta escribir window.Math porque Javascript permite acceder directament
 
 # Categoria BOM u objeto nativo de JS.
 
-window.open(). Pertenece a BOOM.
+window.open(). Pertenece a BOM.
 parseFloat(). Pertenece a objeto nativo de JS.
 Math.floor(). Pertenece a objeto nativo de JS.
-navigator.userAgent. Pertenece a BOOM.
+navigator.userAgent. Pertenece a BOM.
